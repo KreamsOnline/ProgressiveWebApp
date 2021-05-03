@@ -1,2 +1,1 @@
-# ProgressiveWebApp
-My first PWA...
+My first PWA application
